@@ -349,7 +349,7 @@ plot(budgetForecast)
 
 library("TTR")
 
-SMA(series, 5) # De Smallest? Moving Average berekenen
+SMA(series, 5) # De Simple Moving Average berekenen
 
 library("forecast")
 
